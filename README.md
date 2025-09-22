@@ -85,7 +85,7 @@ AAI-520-USD/
 | Module | Topic | Status | Technologies |
 |--------|-------|--------|-------------|
 | Module 2 | NLP: NER & PoS Tagging | ✅ Complete | spaCy, NLTK, Plotly |
-| Module 3 | TBD | 🔄 Pending | TBD |
+| Module 3 | BERT Sentiment Analysis | ✅ Complete | BERT tokenizer |
 | Module 4 | TBD | 🔄 Pending | TBD |
 | Module 5 | TBD | 🔄 Pending | TBD |
 | Module 6 | TBD | 🔄 Pending | TBD |
