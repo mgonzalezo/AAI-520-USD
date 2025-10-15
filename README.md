@@ -84,11 +84,12 @@ AAI-520-USD/
 
 | Module | Topic | Status | Technologies |
 |--------|-------|--------|-------------|
+| Module 1 | Introduction to AI | ✅ Complete | Python, NumPy |
 | Module 2 | NLP: NER & PoS Tagging | ✅ Complete | spaCy, NLTK, Plotly |
 | Module 3 | BERT Sentiment Analysis | ✅ Complete | BERT tokenizer |
-| Module 4 | TBD | 🔄 Pending | TBD |
-| Module 5 | TBD | 🔄 Pending | TBD |
-| Module 6 | TBD | 🔄 Pending | TBD |
+| Module 4 | AI Applications | ✅ Complete | TensorFlow, Keras |
+| Module 5 | Advanced Topics | ✅ Complete | PyTorch, scikit-learn |
+| Module 6 | Final Project | ✅ Complete | Various AI frameworks |
 | Module 7 | TBD | 🔄 Pending | TBD |
 | Module 8 | TBD | 🔄 Pending | TBD |
 
